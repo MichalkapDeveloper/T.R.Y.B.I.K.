@@ -1,0 +1,17 @@
+[[package]]
+name = "speechrecognition"
+version = "3.8.1"
+description = "Library for performing speech recognition, with support for several engines and APIs, online and offline."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "af6fdb8d8a815f474b5a01d4247b97aed05705da5cb8a83f2e78f7ae7794f479"
+
+[metadata.files]
+speechrecognition = [
+    {file = "SpeechRecognition-3.8.1-py2.py3-none-any.whl", hash = "sha256:4d8f73a0c05ec70331c3bacaa89ecc06dfa8d9aba0899276664cda06ab597e8e"},
+]
